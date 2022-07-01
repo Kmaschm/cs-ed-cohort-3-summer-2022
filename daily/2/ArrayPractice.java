@@ -237,7 +237,7 @@ public class ArrayPractice
     // and add more lines as you add additional routines.
 
     // int[] data = buildRandomArray(10, 20);
-    // int[] data2 = buildincreasingArray(10,5,3);
+    // int[] data2 = buildIncreasingArray(10,5,3);
     // printArray(data);
     // printArray(data2);
 
